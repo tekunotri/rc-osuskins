@@ -1,5 +1,5 @@
 # rc skins
-i use these regularly they're cool and great (most are edits)
+# i use these regularly they're cool and great (most are edits)
 # not every skin will be uploaded right away, if i use a skin on stream that you don't see on this list, just tell me to upload it
 
 # [aristia (rcedit)](https://rc4322.s-ul.eu/D0yzlV4O)
