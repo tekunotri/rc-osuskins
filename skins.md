@@ -8,7 +8,7 @@ i use these regularly they're cool and great (most are edits)
 # [rc4322 1.2.4](https://rc4322.s-ul.eu/jr0rHM7v)
 ![](https://osu.ppy.sh/ss/16283890/d1bc)
 
-# [akia dotted skin i sometimes use](https://b.catgirlsare.sexy/t_momdVX.osk)
+# [akia dotted skin i sometimes use (i edited cursor on mine)](https://b.catgirlsare.sexy/t_momdVX.osk)
 ![](https://osu.ppy.sh/ss/14820334/8779)
 
 # [willy skin](https://puu.sh/H3y9f/43fcb5dd24.osk)
