@@ -1,7 +1,7 @@
 # rc skins
 # i use these regularly they're cool and great (most are edits)
-# not every skin will be uploaded right away, if i use a skin on stream that you don't see on this list, just tell me to upload it
-
+sometimes i might use skins that aren't on this list, if so you're better off asking me for a specific skin
+ 
 # [aristia (rcedit)](https://rc4322.s-ul.eu/D0yzlV4O)
 ![](https://osu.ppy.sh/ss/16283882/2144)
  
