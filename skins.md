@@ -11,8 +11,8 @@ sometimes i might use skins that aren't on this list, if so you're better off as
 # [akia dotted skin i sometimes use (i edited cursor on mine)](https://b.catgirlsare.sexy/t_momdVX.osk)
 ![](https://osu.ppy.sh/ss/14820334/8779)
 
-# [willy skin old ver](https://puu.sh/H3y9f/43fcb5dd24.osk)
-![](https://osu.ppy.sh/ss/16283899/9b1d)
+# [willy skin](https://puu.sh/H3y9f/43fcb5dd24.osk)
+![](https://osu.ppy.sh/ss/16293304/c67f)
 
 # [emilia skin (rcedit)](https://rc4322.s-ul.eu/0tkUMWhX)
 ![](https://osu.ppy.sh/ss/16283901/de60)
