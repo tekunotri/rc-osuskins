@@ -23,5 +23,5 @@ sometimes i might use skins that aren't on this list, if so you're better off as
 # [Amaestric rc pastel edit](https://rc4322.s-ul.eu/54HN61gT)
 ![](https://osu.ppy.sh/ss/16283917/8135)
 
-# [+-shinji+shigetora_owo1](
-https://osu.ppy.sh/ss/16793680/8b6e
+# [+-shinji+shigetora_owo1](https://rc4322.s-ul.eu/MoERUNh3)
+![](https://osu.ppy.sh/ss/16793680/8b6e)
