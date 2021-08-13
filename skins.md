@@ -1,6 +1,6 @@
 # rc skins
 # i use these regularly they're cool and great (most are edits)
-sometimes i might use skins that aren't on this list, if so you're better off asking me for a specific skin
+sometimes i might use skins that aren't on this list, if so you're better off asking me for a specific skin through ingame or discord (rc4322#8210)
   
 # [rc4322 1.2.4 (updated as of 3/03/21)](https://rc4322.s-ul.eu/ZIRg9gK5)
 ![](https://osu.ppy.sh/ss/16283890/d1bc)
