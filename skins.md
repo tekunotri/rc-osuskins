@@ -2,8 +2,8 @@
 # i use these regularly they're cool and great (most are edits)
 sometimes i might use skins that aren't on this list, if so you're better off asking me for a specific skin through ingame or discord (rc4322#8210)
   
-# [rc4322 1.2.5 (updated as of 20/03/22)](https://rc4322.s-ul.eu/z0yNwsvl)
-![](https://osu.ppy.sh/ss/17655036/9fbf)
+# [rc4322 1.2.6 (updated as of 13/04/22)](https://rc4322.s-ul.eu/PbB7Tz6c)
+![](https://osu.ppy.sh/ss/17724469/ffb9)
 
 # [aristia (rcedit)](https://rc4322.s-ul.eu/D0yzlV4O)
 ![](https://osu.ppy.sh/ss/16283882/2144)
