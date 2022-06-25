@@ -25,3 +25,6 @@ sometimes i might use skins that aren't on this list, if so you're better off as
 
 # [+-shinji+shigetora_owo1](https://rc4322.s-ul.eu/MoERUNh3)
 ![](https://osu.ppy.sh/ss/16793680/8b6e)
+
+# [crystallized cookiezi 2015](https://drive.google.com/file/d/1-SfZV4N0roQLxlwdEeIifeEKb3IxcaYS/view?usp=sharing)
+![](https://osu.ppy.sh/ss/17922637/e6bd)  
