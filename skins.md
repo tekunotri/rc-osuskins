@@ -5,7 +5,7 @@ sometimes i might use skins that aren't on this list, if so you're better off as
 
 
 # [rc4322 v1.2.8 「Tamamo Edition」](https://rc4322.s-ul.eu/JcdwdR36)
-![](https://osu.ppy.sh/ss/18117210/9d21)
+![](https://osu.ppy.sh/ss/18159338/bd19)
 
 # [rc4322 1.2.7 (updated as of 30/07/22)](https://rc4322.s-ul.eu/g02QkXmW)
 ![](https://b.catgirlsare.sexy/xLvO04nZgQG7.jpg)
