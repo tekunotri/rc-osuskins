@@ -1,11 +1,11 @@
-# rc skins
+# rc4322/TamamoLover skins
 # i use these regularly they're cool and great (most are edits)
 sometimes i might use skins that aren't on this list, if so you're better off asking me for a specific skin through ingame or discord (rc4322#8210)
 
 
 
-# [rc4322 v1.2.8 「Tamamo Edition」](https://rc4322.s-ul.eu/JcdwdR36)
-![](https://osu.ppy.sh/ss/18159338/bd19)
+# [rc4322 v1.2.9 「Tamamo Edition」](https://rc4322.s-ul.eu/GxSIErhW)
+![](https://osu.ppy.sh/ss/18247140/50f8)
 
 # [rc4322 v1.2.8 「Tamamo Mapping Edition」](https://rc4322.s-ul.eu/bUoyZpbl)
 ![](https://osu.ppy.sh/ss/18201912/112d)
