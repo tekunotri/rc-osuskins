@@ -4,7 +4,7 @@ sometimes i might use skins that aren't on this list, if so you're better off as
 
 
 
-# [rc4322 v1.2.9 「Tamamo Edition」](https://rc4322.s-ul.eu/DIvs7GKu)
+# [rc4322 v1.3「Tamamo Edition」](https://rc4322.s-ul.eu/DIvs7GKu)
 ![](https://b.catgirlsare.sexy/6LJdfUvQIWjT.jpg)
 
 # [rc4322 v1.2.8 「Tamamo Mapping Edition」](https://rc4322.s-ul.eu/bUoyZpbl)
