@@ -1,8 +1,12 @@
 # rc4322/TamamoLover skins
-# i use these regularly they're cool and great (most are edits)
-sometimes i might use skins that aren't on this list, if so you're better off asking me for a specific skin through ingame or discord (rc4322#8210)
-
-
+<p align="center">
+<a href="https://osu.ppy.sh/users/7772622">
+  <img src="https://a.ppy.sh/7772622"  
+       width="150"
+       height="150"></a>
+<br>
+  last upd: 10/01/23
+</p>
 
 # [rc4322 v1.3「Tamamo Edition」](https://rc4322.s-ul.eu/DIvs7GKu)
 ![](https://b.catgirlsare.sexy/6LJdfUvQIWjT.jpg)
@@ -43,3 +47,21 @@ sometimes i might use skins that aren't on this list, if so you're better off as
 
 # [YUGEN DE//SATURATED](https://rc4322.s-ul.eu/8IhaYVC8)
 ![](http://osu.ppy.sh/ss/18363342/eee4)
+
+<p align="center">
+  <br></br>
+  <a href="https://www.twitch.tv/rc4322">
+  <img src="https://i.imgur.com/HM030lk.png" 
+       width="100" 
+       height="100"></a>
+  <a href="https://www.youtube.com/@tekunotri">
+  <img src="https://i.imgur.com/YWbDUUy.png"  
+       width="100" 
+       height="100"></a>
+  <a href="https://twitter.com/ignTechno">
+  <img src="https://i.imgur.com/PUQ5uWf.png" 
+       width="100" 
+       height="100"></a>
+  <br></br>
+    <a href="https://github.com/rudj-skinhub/woal/blob/tyfh/README.md">design straight up stolen from rudj's skinhub project check it out here</a>
+ </p>
