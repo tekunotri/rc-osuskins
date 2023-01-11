@@ -46,7 +46,7 @@
 ![](https://osu.ppy.sh/ss/18103738/09a4)
 
 # [YUGEN DE//SATURATED](https://rc4322.s-ul.eu/8IhaYVC8)
-![](https://user-images.githubusercontent.com/41777800/211708007-f0137e13-383e-402b-8cb6-0d5e340bb931.mp4)
+https://user-images.githubusercontent.com/41777800/211708007-f0137e13-383e-402b-8cb6-0d5e340bb931.mp4
 
 <p align="center">
   <br></br>
