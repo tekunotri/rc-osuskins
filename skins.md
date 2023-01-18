@@ -9,44 +9,56 @@
 </p>
 
 # [rc4322 v1.3「Tamamo Edition」](https://rc4322.s-ul.eu/DIvs7GKu)
-![](https://b.catgirlsare.sexy/6LJdfUvQIWjT.jpg)
+https://user-images.githubusercontent.com/41777800/213181843-956e076a-09ff-492d-9875-1f1798e30a28.mp4
 
 # [rc4322 v1.2.8 「Tamamo Mapping Edition」](https://rc4322.s-ul.eu/bUoyZpbl)
-![](https://osu.ppy.sh/ss/18201912/112d)
+https://user-images.githubusercontent.com/41777800/213192431-8cb8bfe1-0243-4a75-a7f5-5078abfee4c5.mp4
 
-# [rc4322 1.2.7 (updated as of 30/07/22)](https://rc4322.s-ul.eu/g02QkXmW)
-![](https://b.catgirlsare.sexy/xLvO04nZgQG7.jpg)
-[rc4322 1.2.6 (old version for those who want it still)](https://rc4322.s-ul.eu/PbB7Tz6c)
+# [rc4322 v1.3 「Tamamo Edition」- DT](https://rc4322.s-ul.eu/bUoyZpbl)
+https://user-images.githubusercontent.com/41777800/213180702-d84c58e6-1975-452c-bb14-54d3f747206c.mp4
 
-# [aristia (rcedit)](https://rc4322.s-ul.eu/D0yzlV4O)
-![](https://osu.ppy.sh/ss/16283882/2144)
+# [rc4322 1.2.8 (updated as of 18/01/23)](https://rc4322.s-ul.eu/g02QkXmW)
+https://user-images.githubusercontent.com/41777800/213186441-7c6e1a36-fe3f-4c58-b590-1c13f0efcadb.mp4
+
+# [aristia (rcedit)](https://rc4322.s-ul.eu/UR0FEZtU)
+https://user-images.githubusercontent.com/41777800/213183201-a0bd72a7-a7fd-4847-8ce2-d46221eeec87.mp4
 
 # [akia dotted skin i sometimes use (i edited cursor on mine)](https://b.catgirlsare.sexy/t_momdVX.osk)
-![](https://osu.ppy.sh/ss/14820334/8779)
+https://user-images.githubusercontent.com/41777800/213184229-c39a3717-b23e-4783-88f8-cb6fa348debf.mp4
 
 # [willy skin](https://puu.sh/H3y9f/43fcb5dd24.osk)
-![](https://osu.ppy.sh/ss/16293304/c67f)
+https://user-images.githubusercontent.com/41777800/213185024-37cc24e6-79ea-42b7-832e-db2a08c8ba38.mp4
 
 # [emilia skin (rcedit)](https://rc4322.s-ul.eu/0tkUMWhX)
-![](https://osu.ppy.sh/ss/16283901/de60)
+https://user-images.githubusercontent.com/41777800/213185548-edf5c5a6-1b49-4c6b-afc1-c5dcf24ac4e5.mp4
 
 # [thelewa remake-ish](https://rc4322.s-ul.eu/ALAFlzTD)
-![](https://b.catgirlsare.sexy/FI4bt-8_.jpg)
+https://user-images.githubusercontent.com/41777800/213187893-9a2b3ca4-2489-4c0f-8bfb-f87223b590fe.mp4
 
 # [Amaestric rc pastel edit](https://rc4322.s-ul.eu/54HN61gT)
-![](https://osu.ppy.sh/ss/16283917/8135)
+https://user-images.githubusercontent.com/41777800/213188543-0d3802ff-ec6d-4ac6-bc5c-1970994864d5.mp4
 
 # [+-shinji+shigetora_owo1](https://rc4322.s-ul.eu/MoERUNh3)
-![](https://osu.ppy.sh/ss/16793680/8b6e)
+https://user-images.githubusercontent.com/41777800/213189224-e92d80c9-198f-43b7-958a-9476e87814c9.mp4
 
 # [crystallized cookiezi 2015](https://drive.google.com/file/d/1-SfZV4N0roQLxlwdEeIifeEKb3IxcaYS/view?usp=sharing)
-![](https://osu.ppy.sh/ss/17922637/e6bd)
+https://user-images.githubusercontent.com/41777800/213189728-5683bba9-df3c-41c1-aed9-89fbf51fa23a.mp4
 
-# [- zyn a「Hora~ Hora」Edition](https://rc4322.s-ul.eu/pPJdyJ3K)
-![](https://osu.ppy.sh/ss/18103738/09a4)
+# [- zyn a「Hora~ Hora~」Edition](https://rc4322.s-ul.eu/pPJdyJ3K)
+https://user-images.githubusercontent.com/41777800/213190478-9110e497-fc4f-40fc-afb9-2832f1431102.mp4
+<details>
+the original trump card.
+<br>
+if %con_hvoice=0 dwave 13,"voice\alice4_04.ogg"
+</details>
 
 # [YUGEN DE//SATURATED](https://rc4322.s-ul.eu/8IhaYVC8)
 https://user-images.githubusercontent.com/41777800/211708007-f0137e13-383e-402b-8cb6-0d5e340bb931.mp4
+<details>
+<summary>old skins</summary>
+<br>
+rc4322 1.2.6 (old version for those who want it still: https://rc4322.s-ul.eu/PbB7Tz6c
+</details>
 
 <p align="center">
   <br></br>
@@ -58,8 +70,6 @@ https://user-images.githubusercontent.com/41777800/211708007-f0137e13-383e-402b-
   <img src="https://i.imgur.com/YWbDUUy.png"  
        width="100" 
        height="100"></a>
-
-
 
   <a href="https://twitter.com/ignTechno">
   <img src="https://i.imgur.com/PUQ5uWf.png" 
