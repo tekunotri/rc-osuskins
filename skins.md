@@ -19,7 +19,9 @@ https://user-images.githubusercontent.com/41777800/213180702-d84c58e6-1975-452c-
 
 # [rc4322 1.2.8 (updated as of 18/01/23)](https://rc4322.s-ul.eu/g02QkXmW)
 https://user-images.githubusercontent.com/41777800/213186441-7c6e1a36-fe3f-4c58-b590-1c13f0efcadb.mp4
-
+<details>
+  ok, not exactly fully up to date, but it's close enough. only difference being font, color theme and acc position
+</details/
 # [aristia (rcedit)](https://rc4322.s-ul.eu/UR0FEZtU)
 https://user-images.githubusercontent.com/41777800/213183201-a0bd72a7-a7fd-4847-8ce2-d46221eeec87.mp4
 
