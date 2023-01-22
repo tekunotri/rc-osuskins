@@ -10,6 +10,12 @@
 
 # [rc4322 v1.3「Tamamo Edition」](https://rc4322.s-ul.eu/DIvs7GKu)
 https://user-images.githubusercontent.com/41777800/213181843-956e076a-09ff-492d-9875-1f1798e30a28.mp4
+<details>
+<summary></summary>
+"ever make a skin as a joke? yeah this one went too far" - me https://b.catgirlsare.sexy/LhCZ7LmdDFzB.png
+<br>
+if %con_hvoice=0 dwave 13,"voice\tamamo2_17.ogg"
+</details>
 
 # [rc4322 v1.2.8 「Tamamo Mapping Edition」](https://rc4322.s-ul.eu/bUoyZpbl)
 https://user-images.githubusercontent.com/41777800/213192431-8cb8bfe1-0243-4a75-a7f5-5078abfee4c5.mp4
@@ -47,6 +53,7 @@ https://user-images.githubusercontent.com/41777800/213189728-5683bba9-df3c-41c1-
 # [- zyn a「Hora~ Hora~」Edition](https://rc4322.s-ul.eu/pPJdyJ3K)
 https://user-images.githubusercontent.com/41777800/213190478-9110e497-fc4f-40fc-afb9-2832f1431102.mp4
 <details>
+<summary></summary>
 the original trump card.
 <br>
 if %con_hvoice=0 dwave 13,"voice\alice4_04.ogg"
