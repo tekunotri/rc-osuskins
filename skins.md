@@ -6,6 +6,8 @@
        height="150"></a>
 <br>
   last upd: 10/01/23
+  <br>
+  <a href=https://github.com/TechnoSL/rc-osuskins/blob/master/tamamo.md>other tamamo skins (gameplay edits only)</a>
 </p>
 
 # [rc4322 v1.3「Tamamo Edition」](https://rc4322.s-ul.eu/DIvs7GKu)
