@@ -25,13 +25,13 @@ https://user-images.githubusercontent.com/41777800/213192431-8cb8bfe1-0243-4a75-
 # [rc4322 v1.3 「Tamamo Edition」- DT](https://rc4322.s-ul.eu/bUoyZpbl)
 https://user-images.githubusercontent.com/41777800/213180702-d84c58e6-1975-452c-bb14-54d3f747206c.mp4
 
-# [rc4322 1.2.8 (updated as of 18/01/23)](https://rc4322.s-ul.eu/g02QkXmW)
+# [rc4322 1.2.8 (updated as of 18/01/23)](https://drive.google.com/file/d/1bQzSglCgN_Vdsl6D2DoKj8Urp8AuDd4h/view?usp=share_link)
 https://user-images.githubusercontent.com/41777800/213186441-7c6e1a36-fe3f-4c58-b590-1c13f0efcadb.mp4
 
 # [aristia (rcedit)](https://rc4322.s-ul.eu/UR0FEZtU)
 https://user-images.githubusercontent.com/41777800/213183201-a0bd72a7-a7fd-4847-8ce2-d46221eeec87.mp4
 
-# [akia dotted skin i sometimes use (i edited cursor on mine)](https://b.catgirlsare.sexy/t_momdVX.osk)
+# [akia dotted skin i sometimes use (i edited cursor on mine)](https://drive.google.com/file/d/1cd_VEyu3VhRIWwYArSH18CX1CrBSAGu9/view?usp=share_link)
 https://user-images.githubusercontent.com/41777800/213184229-c39a3717-b23e-4783-88f8-cb6fa348debf.mp4
 
 # [willy skin](https://puu.sh/H3y9f/43fcb5dd24.osk)
