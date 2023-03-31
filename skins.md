@@ -5,9 +5,9 @@
        width="150"
        height="150"></a>
 <br>
-  last upd: 10/01/23
+  last upd: 15/02/23
   <br>
-  <a href=https://github.com/TechnoSL/rc-osuskins/blob/master/tamamo.md>other tamamo skins (gameplay edits only)</a>
+  · <a href=https://github.com/TechnoSL/rc-osuskins/blob/master/tamamo.md>other tamamo skins (gameplay edits only)</a> · 
 </p>
 
 # [rc4322 v1.3「Tamamo Edition」](https://rc4322.s-ul.eu/DIvs7GKu)
@@ -19,6 +19,7 @@ https://user-images.githubusercontent.com/41777800/213181843-956e076a-09ff-492d-
 if %con_hvoice=0 dwave 13,"voice\tamamo2_17.ogg"
 </details>
 
+<<<<<<< HEAD
 # [rc4322 v1.2.8 「Tamamo Mapping Edition」](https://rc4322.s-ul.eu/bUoyZpbl)
 https://user-images.githubusercontent.com/41777800/213192431-8cb8bfe1-0243-4a75-a7f5-5078abfee4c5.mp4
 
@@ -26,6 +27,9 @@ https://user-images.githubusercontent.com/41777800/213192431-8cb8bfe1-0243-4a75-
 https://user-images.githubusercontent.com/41777800/213180702-d84c58e6-1975-452c-bb14-54d3f747206c.mp4
 
 # [rc4322 1.2.8 (updated as of 18/01/23)](https://drive.google.com/file/d/1bQzSglCgN_Vdsl6D2DoKj8Urp8AuDd4h/view?usp=share_link)
+=======
+# [rc4322 1.2.8 (updated as of 18/01/23)](https://rc4322.s-ul.eu/g02QkXmW)
+>>>>>>> 5a26dec11e6154c8e8267c5952c416d5a9faf0e7
 https://user-images.githubusercontent.com/41777800/213186441-7c6e1a36-fe3f-4c58-b590-1c13f0efcadb.mp4
 
 # [aristia (rcedit)](https://rc4322.s-ul.eu/UR0FEZtU)
