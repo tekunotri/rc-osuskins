@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-  last upd: 15/02/23
+  last upd: 01/09/23
   <br>
   · <a href=https://github.com/TechnoSL/rc-osuskins/blob/master/tamamo.md>other tamamo skins (gameplay edits only)</a> ·
   <br>
