@@ -59,6 +59,15 @@ if %con_hvoice=0 dwave 13,"voice\alice4_04.ogg"
 
 # [YUGEN DE//SATURATED](https://rc4322.s-ul.eu/8IhaYVC8)
 https://user-images.githubusercontent.com/41777800/211708007-f0137e13-383e-402b-8cb6-0d5e340bb931.mp4
+
+# [NUKITASHI Skin v1.5 (rc edit)](https://rc4322.s-ul.eu/PjRhsz1l)
+<details>
+<summary></summary>
+i use this for taiko mostly, found out it also plays pretty good if you swap the hitsounds/cursor. so here you go
+</details>
+https://github.com/TechnoSL/rc-osuskins/assets/41777800/9c2bcf8e-45b6-44be-8ede-0d5e81ecaaff
+
+
 <details>
 <summary>old skins</summary>
 <br>
