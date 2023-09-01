@@ -69,6 +69,7 @@ i use this for taiko mostly, found out it also plays pretty good if you swap the
 https://github.com/TechnoSL/rc-osuskins/assets/41777800/9c2bcf8e-45b6-44be-8ede-0d5e81ecaaff
 
 
+
 <details>
 <summary>old skins</summary>
 <br>
