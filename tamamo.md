@@ -41,5 +41,9 @@ https://github.com/TechnoSL/rc-osuskins/assets/41777800/852b6838-474e-4274-a121-
 https://github.com/TechnoSL/rc-osuskins/assets/41777800/f8c7a53e-9df1-4416-88e8-9500ee096f64
 
 
-
-
+# [rc4322 v1.3.1 「TamamoLD Edition」- ](https://rc4322.s-ul.eu/sAD92G0R)
+https://github.com/TechnoSL/rc-osuskins/assets/41777800/172b50bd-5ff0-4dba-89cf-5f2f507a718e
+<details>
+<summary></summary>
+basically the main skin, but adapted a little bit to work on older clients (2013 and below)
+</details>
