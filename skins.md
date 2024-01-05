@@ -11,7 +11,7 @@
   <br>
   · <a href=https://github.com/TechnoSL/rc-osuskins/blob/master/tamamo.md>other tamamo skins (gameplay edits only)</a> ·
   <br>
-  · if there are any dead links or you'd like a skin that isn't here, send me a dm <a href=https://osu.ppy.sh/home/messages/users/7772622>in-game</a> or through discord (rc4322#8210) ·
+  · if there are any dead links or you'd like a skin that isn't here, send me a dm <a href=https://osu.ppy.sh/home/messages/users/7772622>in-game</a> or through discord (rc4322) ·
 </p>
 
 ## [rc4322 v1.3「Tamamo Edition」](https://rc4322.s-ul.eu/DIvs7GKu)
