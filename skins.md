@@ -14,7 +14,7 @@
   · if there are any dead links or you'd like a skin that isn't here, send me a dm <a href=https://osu.ppy.sh/home/messages/users/7772622>in-game</a> or through discord (rc4322#8210) ·
 </p>
 
-# [rc4322 v1.3「Tamamo Edition」](https://rc4322.s-ul.eu/DIvs7GKu)
+## [rc4322 v1.3「Tamamo Edition」](https://rc4322.s-ul.eu/DIvs7GKu)
 
 <https://user-images.githubusercontent.com/41777800/213181843-956e076a-09ff-492d-9875-1f1798e30a28.mp4>
 <details>
@@ -24,43 +24,43 @@
 if %con_hvoice=0 dwave 13,"voice\tamamo2_17.ogg"
 </details>
 
-# [rc4322 1.2.8 (updated as of 18/01/23)](https://drive.google.com/file/d/1bQzSglCgN_Vdsl6D2DoKj8Urp8AuDd4h/view?usp=share_link)
+## [rc4322 1.2.8 (updated as of 18/01/23)](https://drive.google.com/file/d/1bQzSglCgN_Vdsl6D2DoKj8Urp8AuDd4h/view?usp=share_link)
 
 <https://user-images.githubusercontent.com/41777800/213186441-7c6e1a36-fe3f-4c58-b590-1c13f0efcadb.mp4>
 
-# [aristia (rcedit)](https://rc4322.s-ul.eu/UR0FEZtU)
+## [aristia (rcedit)](https://rc4322.s-ul.eu/UR0FEZtU)
 
 <https://user-images.githubusercontent.com/41777800/213183201-a0bd72a7-a7fd-4847-8ce2-d46221eeec87.mp4>
 
-# [akia dotted skin i sometimes use (i edited cursor on mine)](https://drive.google.com/file/d/1cd_VEyu3VhRIWwYArSH18CX1CrBSAGu9/view?usp=share_link)
+## [akia dotted skin i sometimes use (i edited cursor on mine)](https://drive.google.com/file/d/1cd_VEyu3VhRIWwYArSH18CX1CrBSAGu9/view?usp=share_link)
 
 <https://user-images.githubusercontent.com/41777800/213184229-c39a3717-b23e-4783-88f8-cb6fa348debf.mp4>
 
-# [willy skin](https://puu.sh/H3y9f/43fcb5dd24.osk)
+## [willy skin](https://puu.sh/H3y9f/43fcb5dd24.osk)
 
 <https://user-images.githubusercontent.com/41777800/213185024-37cc24e6-79ea-42b7-832e-db2a08c8ba38.mp4>
 
-# [emilia skin (rcedit)](https://rc4322.s-ul.eu/0tkUMWhX)
+## [emilia skin (rcedit)](https://rc4322.s-ul.eu/0tkUMWhX)
 
 <https://user-images.githubusercontent.com/41777800/213185548-edf5c5a6-1b49-4c6b-afc1-c5dcf24ac4e5.mp4>
 
-# [thelewa remake-ish](https://rc4322.s-ul.eu/ALAFlzTD)
+## [thelewa remake-ish](https://rc4322.s-ul.eu/ALAFlzTD)
 
 <https://user-images.githubusercontent.com/41777800/213187893-9a2b3ca4-2489-4c0f-8bfb-f87223b590fe.mp4>
 
-# [Amaestric rc pastel edit](https://rc4322.s-ul.eu/54HN61gT)
+## [Amaestric rc pastel edit](https://rc4322.s-ul.eu/54HN61gT)
 
 <https://user-images.githubusercontent.com/41777800/213188543-0d3802ff-ec6d-4ac6-bc5c-1970994864d5.mp4>
 
-# [+-shinji+shigetora_owo1](https://rc4322.s-ul.eu/MoERUNh3)
+## [+-shinji+shigetora_owo1](https://rc4322.s-ul.eu/MoERUNh3)
 
 <https://user-images.githubusercontent.com/41777800/213189224-e92d80c9-198f-43b7-958a-9476e87814c9.mp4>
 
-# [crystallized cookiezi 2015](https://drive.google.com/file/d/1-SfZV4N0roQLxlwdEeIifeEKb3IxcaYS/view?usp=sharing)
+## [crystallized cookiezi 2015](https://drive.google.com/file/d/1-SfZV4N0roQLxlwdEeIifeEKb3IxcaYS/view?usp=sharing)
 
 <https://user-images.githubusercontent.com/41777800/213189728-5683bba9-df3c-41c1-aed9-89fbf51fa23a.mp4>
 
-# [- zyn a「Hora~ Hora~」Edition](https://rc4322.s-ul.eu/pPJdyJ3K)
+## [- zyn a「Hora~ Hora~」Edition](https://rc4322.s-ul.eu/pPJdyJ3K)
 
 <https://user-images.githubusercontent.com/41777800/213190478-9110e497-fc4f-40fc-afb9-2832f1431102.mp4>
 <details>
@@ -84,6 +84,7 @@ i use this for taiko mostly, found out it also plays pretty good if you swap the
 <https://github.com/TechnoSL/rc-osuskins/assets/41777800/9c2bcf8e-45b6-44be-8ede-0d5e81ecaaff>
 
 # [- # [ Tsukiyuki Miyako - NM (1.1ver) ]](https://rc4322.s-ul.eu/OplIvMfU)
+
 <details>
 <summary></summary>
 i had a little 1-2 week phase where i only ran this skin, it has really satisfying hitsounds and clean gameplay despite being a osu forum skin, really nice
