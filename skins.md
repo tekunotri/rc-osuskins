@@ -7,16 +7,27 @@
        width="150"
        height="150"></a>
 <br>
-  last upd: 05/01/24
+  last upd: 26/03/24
   <br>
   · <a href=https://github.com/TechnoSL/rc-osuskins/blob/master/tamamo.md>other tamamo skins (gameplay edits only)</a> ·
   <br>
   · if there are any dead links or you'd like a skin that isn't here, send me a dm <a href=https://osu.ppy.sh/home/messages/users/7772622>in-game</a> or through discord (rc4322) ·
 </p>
 
-## [rc4322 v1.3「Tamamo Edition」](https://rc4322.s-ul.eu/DIvs7GKu)
 
-<https://user-images.githubusercontent.com/41777800/213181843-956e076a-09ff-492d-9875-1f1798e30a28.mp4>
+## [rc4322 v1.5「MRSM Edition」](https://github.com/TechnoSL/rc-osuskins/raw/master/skins/-%20rc4322%20v1.5.1%20%E3%80%8CMRSM%20Edition%E3%80%8D.osk)
+
+https://github.com/TechnoSL/rc-osuskins/assets/41777800/55e6a35c-06d4-4306-b5b5-61c9c4f73ea0
+<details>
+<summary></summary>
+most of the changes in this one are actually in the main menu, big thanks to rinne for helping me refresh the menu and FrancisEdits for the psd files for score numbers and the sort
+<br>
+if anyone wants, here are the psd files: https://rc4322.s-ul.eu/KozGRDaQ (i was gonna include a link to it in the readme file for the skin, but i forgot. oh well)
+i love murasame
+</details>
+
+[rc4322 v1.3「Tamamo Edition」](https://rc4322.s-ul.eu/DIvs7GKu)
+
 <details>
 <summary></summary>
 "ever make a skin as a joke? yeah this one went too far" - me https://b.catgirlsare.sexy/LhCZ7LmdDFzB.png
@@ -24,9 +35,11 @@
 if %con_hvoice=0 dwave 13,"voice\tamamo2_17.ogg"
 </details>
 
-## [rc4322 1.2.8 (updated as of 18/01/23)](https://drive.google.com/file/d/1bQzSglCgN_Vdsl6D2DoKj8Urp8AuDd4h/view?usp=share_link)
+[rc4322 1.2.8 (updated as of 18/01/23)](https://drive.google.com/file/d/1bQzSglCgN_Vdsl6D2DoKj8Urp8AuDd4h/view?usp=share_link)
 
-<https://user-images.githubusercontent.com/41777800/213186441-7c6e1a36-fe3f-4c58-b590-1c13f0efcadb.mp4>
+## [vv idke trail tamatechno](https://rc4322.s-ul.eu/qMAoOHXI) ([preview](https://www.youtube.com/watch?v=rm6ulJQghjs))
+
+![](https://b.catgirlsare.sexy/dQQx7Jl5CZs0.jpg)]
 
 ## [aristia (rcedit)](https://rc4322.s-ul.eu/UR0FEZtU)
 
@@ -92,12 +105,10 @@ i had a little 1-2 week phase where i only ran this skin, it has really satisfyi
 
 <https://github.com/TechnoSL/rc-osuskins/assets/41777800/a5921ce8-18ec-4b47-8828-6df1996cf8a6>
 
+# [Older Skins](https://mega.nz/folder/oaM3zZIZ#i9OCePpAlR_CzePzZItL9A)
 <details>
-<summary>old skins</summary>
-<br>
-rc4322 1.2.6 (old version for those who want it still: https://rc4322.s-ul.eu/PbB7Tz6c
-</details>
-
+<summary></summary>
+nothing much to say here, just older stuff sitting in my hard drive that i felt like releasing, lots of skins i used/edited from 2016 to now</details>
 <p align="center">
   <br></br>
   <a href="https://www.twitch.tv/rc4322">
