@@ -39,7 +39,7 @@ if %con_hvoice=0 dwave 13,"voice\tamamo2_17.ogg"
 
 ## [vv idke trail tamatechno](https://rc4322.s-ul.eu/qMAoOHXI) ([preview](https://www.youtube.com/watch?v=rm6ulJQghjs))
 
-![](https://b.catgirlsare.sexy/dQQx7Jl5CZs0.jpg)]
+![](https://b.catgirlsare.sexy/dQQx7Jl5CZs0.jpg)
 
 ## [aristia (rcedit)](https://rc4322.s-ul.eu/UR0FEZtU)
 
