@@ -37,7 +37,7 @@ https://github.com/TechnoSL/rc-osuskins/assets/41777800/7d1b0dac-e0e7-46c5-9f97-
 # [rc4322 v1.3.1 「Tamamo Edition」- uatzap](https://github.com/TechnoSL/rc-osuskins/blob/master/tamamo/-%20%20rc4322%20v1.3.1%20%E3%80%8CTamamo%20Edition%E3%80%8D%20-%20uatzap.osk)
 https://github.com/TechnoSL/rc-osuskins/assets/41777800/852b6838-474e-4274-a121-0e40e5492882
 
-# [rc4322 v1.3.1 「Tamamo Edition」- zyn testing 13](https://github.com/TechnoSL/rc-osuskins/blob/master/tamamo/-%20%20rc4322%20v1.3.1%20%E3%80%8CTamamo%20Edition%E3%80%8D%20-%20zyn%20testing%2013.osk) ([invest now!](https://github.com/rudj-skinhub/woal/blob/tyfh/zyn.md))
+# [rc4322 v1.3.1 「Tamamo Edition」- zyn testing 13](https://github.com/TechnoSL/rc-osuskins/blob/master/tamamo/-%20%20rc4322%20v1.3.1%20%E3%80%8CTamamo%20Edition%E3%80%8D%20-%20zyn%20testing%2013.osk) ([invest now!](https://github.com/ryancranie/skinhub/blob/tyfh/player/zyn/zyn.md))
 https://github.com/TechnoSL/rc-osuskins/assets/41777800/f8c7a53e-9df1-4416-88e8-9500ee096f64
 
 
